@@ -3,3 +3,4 @@ I add more sentenses.
 test add status.
 test temp and workspace.
 i just crete a new branch named dev.
+test quick merge.

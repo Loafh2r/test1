@@ -3,4 +3,8 @@ I add more sentenses.
 test add status.
 test temp and workspace.
 i just crete a new branch named dev.
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+test quick merge.
+>>>>>>> feature1

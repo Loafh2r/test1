@@ -2,3 +2,4 @@ this is a txt to test git.
 I add more sentenses.
 test add status.
 test temp and workspace.
+i just crete a new branch named dev.
